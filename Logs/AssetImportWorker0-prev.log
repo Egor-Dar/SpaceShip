@@ -1,0 +1,179 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.2f1 (e5d502d80fbb) revision 15062274'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'ru' Physical Memory: 32623 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/egord/Documents/GitHub/TestProject2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53090
+Successfully changed project path to: C:/Users/egord/Documents/GitHub/TestProject2
+C:/Users/egord/Documents/GitHub/TestProject2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 137.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.2f1 (e5d502d80fbb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/egord/Documents/GitHub/TestProject2/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     16311 MB
+    Driver:   23.20.16.4973
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003265 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 154.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.693 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005850 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 180.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.801 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.1 MB.
+System memory in use after: 131.2 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3856.
+Total: 4.593000 ms (FindLiveObjects: 0.418000 ms CreateObjectMapping: 0.283200 ms MarkObjects: 3.624300 ms  DeleteObjects: 0.265700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/IMPACT Atlas.png
+  artifactKey: Guid(10f7ba5ac16d0f047a8bd42791a39430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT Atlas.png using Guid(10f7ba5ac16d0f047a8bd42791a39430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4146fec092bed57dc247cef8927a49e9') in 0.257335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/IMPACT.asset
+  artifactKey: Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT.asset using Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '764b83d57bbfb8f6c0b2b2345222474b') in 0.157091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 857.651136 seconds.
+  path: Assets/IMPACT Atlas.png
+  artifactKey: Guid(10f7ba5ac16d0f047a8bd42791a39430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT Atlas.png using Guid(10f7ba5ac16d0f047a8bd42791a39430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aacca52a06ff719e3566f964bd02b5d0') in 0.101898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2378.852541 seconds.
+  path: Assets/IMPACT.asset
+  artifactKey: Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT.asset using Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8c213661fafb20195ecfe87ec51877') in 0.070677 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.149688 seconds.
+  path: Assets/IMPACT Atlas.png
+  artifactKey: Guid(10f7ba5ac16d0f047a8bd42791a39430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT Atlas.png using Guid(10f7ba5ac16d0f047a8bd42791a39430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5427d8f4de8cbff17f49390ea8d94a08') in 0.034647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7039.172981 seconds.
+  path: Assets/IMPACT Atlas 1.png
+  artifactKey: Guid(24edb5f916ded8940bb2378b0912797d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT Atlas 1.png using Guid(24edb5f916ded8940bb2378b0912797d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57d1ff007cf0f21c725530a6ef0fbd12') in 0.075879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2450.305203 seconds.
+  path: Assets/IMPACT.asset
+  artifactKey: Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT.asset using Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '695f5a34fe3a8381d5d5b602244f83e9') in 0.127417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 50.124637 seconds.
+  path: Assets/IMPACT.asset
+  artifactKey: Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT.asset using Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8d56bd26f606ae80c1950b59cafa2a') in 0.154072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.276669 seconds.
+  path: Assets/IMPACT Atlas.png
+  artifactKey: Guid(10f7ba5ac16d0f047a8bd42791a39430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT Atlas.png using Guid(10f7ba5ac16d0f047a8bd42791a39430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '690689fcdc7e20048a6422618a1bdb7d') in 0.114588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 405.546914 seconds.
+  path: Assets/IMPACT Atlas (1).png
+  artifactKey: Guid(3f146460d4c8b62439abe250dd529b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IMPACT Atlas (1).png using Guid(3f146460d4c8b62439abe250dd529b68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79c70a3a14a1a323cf0b1287e03f8f15') in 0.086128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 97.368912 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b1f18a7e1840f163bb4dd30c000cb0') in 0.043373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.189348 seconds.
+  path: Assets/TextMesh Pro/Fonts
+  artifactKey: Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts using Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1cccb9531f5c0e472a10e74301d310') in 0.040287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 114.944662 seconds.
+  path: Assets/TextMesh Pro/IMPACT.asset
+  artifactKey: Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/IMPACT.asset using Guid(7aa7e4d35cac8954f8a37cf3a66e5d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e733bb4bb04f1c5f150366b0a6aca6c') in 0.076276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/TextMesh Pro/IMPACT2.asset
+  artifactKey: Guid(b7b23b162c7f68e4aa61693c531cb058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/IMPACT2.asset using Guid(b7b23b162c7f68e4aa61693c531cb058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66919536a27e519b8186f4bc24fcdb04') in 0.317620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.583723 seconds.
+  path: Assets/TextMesh Pro/IMPACT2 Atlas.png
+  artifactKey: Guid(5f6f0ffd119b98948bfcd8e6822260fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/IMPACT2 Atlas.png using Guid(5f6f0ffd119b98948bfcd8e6822260fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ad45f6e16fb74960c9baa2bf1fb270') in 0.092670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.149012 seconds.
+  path: Assets/TextMesh Pro/Resources
+  artifactKey: Guid(243e06394e614e5d99fab26083b707fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources using Guid(243e06394e614e5d99fab26083b707fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7565b95526c65a1d497c989535b2066') in 0.041602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003488 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '379b444e719ce6a1ead583ce42e46afe') in 0.109075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 449.598065 seconds.
+  path: Assets/TextMesh Pro/IMPACT2 Atlas.png
+  artifactKey: Guid(5f6f0ffd119b98948bfcd8e6822260fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/IMPACT2 Atlas.png using Guid(5f6f0ffd119b98948bfcd8e6822260fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ab7dd3594f97870beca28b51254136') in 0.115151 seconds 
